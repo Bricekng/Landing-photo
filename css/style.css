@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Anton|Big+Shoulders+Display&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body{
+	font-family: 'Big Shoulders Display';
+	font-size: 18px;
+}
+
+a{
+	text-decoration: none;
+}
